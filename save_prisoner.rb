@@ -6,4 +6,3 @@ def saveThePrisoner(n, m, s)
         return (m + s - 1) % n
     end
 end
-
